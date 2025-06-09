@@ -6,7 +6,7 @@ An end-to-end full-stack web application for booking tickets to movies, concerts
 
 ---
 
-## 📌 Overview
+##  Overview
 
 BookMyShow is a centralized event ticketing platform designed for:
 - Customers
@@ -19,9 +19,9 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 👥 Users
+###  Users
 - Sign up / login with email or OTP
 - Browse & filter events
 - Interactive seat selection
@@ -30,24 +30,24 @@ It features secure payments, seat selection, personalized recommendations, and p
 - Cancel & reschedule bookings
 - View booking history & get recommendations
 
-### 🧑‍💼 Event Organizers
+###  Event Organizers
 - Create/manage event listings
 - Set ticket prices and limits
 - Monitor ticket sales & analytics
 
-### 🏟️ Venue Admins
+###  Venue Admins
 - Configure seating layouts
 - Validate tickets
 - Coordinate logistics
 
-### 🛠️ System Admins
+###  System Admins
 - User management
 - Event moderation
 - Platform configuration & analytics
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer      | Technologies Used                              |
 |------------|------------------------------------------------|
@@ -61,7 +61,7 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 - RESTful microservices-based backend
 - Modular frontend (React components)
@@ -71,7 +71,7 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## 📐 Design Documentation
+##  Design Documentation
 
 - 🧾 [Feasibility Report](docs/Feasibility.pdf)
 - 📄 [SRS - Software Requirements Spec](docs/SRS.pdf)
@@ -87,7 +87,7 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## 📈 Project Estimations
+##  Project Estimations
 
 - **Function Points**: 277
 - **Estimated Effort**: ~96 person-months (COCOMO)
@@ -96,7 +96,7 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## ✅ Testing & QA
+##  Testing & QA
 
 - **Unit Testing**: Jest, Mocha (95% pass rate)
 - **Code Coverage**: ~88%
@@ -106,7 +106,7 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## 👨‍💻 Authors
+##  Authors
 
 - Sure David (2023BCS-066)
 - Tiyyagura Jeevan Reddy (2023BCS-069)
@@ -116,7 +116,7 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## 📚 References
+##  References
 
 - [BookMyShow Business Model](https://growthx.club/blog/bookmyshow-business-model)
 - [Tech Behind BookMyShow](https://www.linkedin.com/pulse/tech-used-behind-coldplays-concert-tickets-bookmyshow-sandeep-jain-ukx1c/)
@@ -124,7 +124,7 @@ It features secure payments, seat selection, personalized recommendations, and p
 
 ---
 
-## 📃 License
+##  License
 
 This project is for academic and educational use only. Contact authors for reuse or collaboration.
 
